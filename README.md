@@ -151,8 +151,3 @@ To maximize analytical query speeds for downstream dashboard environments (like 
 
 **Why a Star Schema in Gold?** Dimensional modeling minimizes query complexity for business analysts and BI tools, reducing join overhead and enabling fast aggregations on large retail datasets.
 
----
-
-## 📄 License
-
-This project is provided for educational and portfolio purposes.
