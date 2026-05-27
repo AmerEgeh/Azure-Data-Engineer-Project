@@ -64,6 +64,13 @@ The pipeline follows the industry-standard **Medallion Architecture**, separatin
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+---
+
+
+https://github.com/user-attachments/assets/b89e1cd7-d782-4245-a8dd-35d68e2dbcba
+
+
+
 ### 1. Data Ingestion (Azure Data Factory)
 
 - **Source:** Raw transactional data delivered as nested `JSON` files.
